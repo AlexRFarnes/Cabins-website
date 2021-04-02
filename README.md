@@ -18,9 +18,9 @@ The final project is a responsive and animated website for a fictional company t
 
 ## Screenshots
 
-![Screenshot]()
+![Screenshot](https://user-images.githubusercontent.com/57517804/113384300-51c40b00-93b8-11eb-8475-9cdb30120b8a.png)
 
-[Demo]()
+[Demo](https://inspiring-lamarr-ef8a35.netlify.app)
 
 ## Built With
 
@@ -44,7 +44,7 @@ Project is: _finished_.
 
 ## Inspiration
 
-Project based on [Scrimba's UI Design Bootcamp]()
+Project based on [Scrimba's UI Design Bootcamp](https://scrimba.com)
 
 ## Contact
 
